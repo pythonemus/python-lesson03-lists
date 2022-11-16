@@ -27,5 +27,6 @@ for key,val in dict1.items():
 # The "while" loop will remain "true" until i becomes greater than 6
 i = 1
 while i < 6:
-   print(i)
-   i += 1
+    print(i)
+    i += 1
+
